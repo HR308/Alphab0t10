@@ -1,0 +1,18 @@
+{
+    "self_mode": true,
+	"autobio": true,
+	"antihidetag": false,
+	"user_register": true,
+	"anti_delete" : false,
+	"anticall": true,
+	"prefix": "#",
+	"language":"ind",
+	"ownerNumber": "6285706642632",
+	"ownerNumberr": "6285706642632",
+	"cr": "@ByDevanoBot",
+	"ownername": "Valent",
+	"botname":"Devano Bot",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  Devano Bot  」\nCreated By @ByDevanoBot"
+}
